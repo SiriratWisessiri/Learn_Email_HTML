@@ -1,8 +1,9 @@
 
 # Project Description
 - Learn and practice how to create Email HTML.
-- Understand the diiferents of how to create Email HTML and normal web page.
+- Understand the differents of how to create Email HTML and normal web page.
     - Email HTML better be created with table and inline CSS, these to ensure that the layout will not break when open in the email page. 
+    - You can use service from "PutsMail" to convert CSS to be inline and send the test email.
 
 
 
